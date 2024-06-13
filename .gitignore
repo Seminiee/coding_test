@@ -227,3 +227,5 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/macos,visualstudiocode,python
 .vscode/settings.json
+CodingTest_AvaiableModules.ipynb
+code_test.ipynb
