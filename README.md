@@ -21,6 +21,7 @@
 - [BOJ 2178 미로탐색](https://www.acmicpc.net/problem/2178)
 - [BOJ 7576 토마토](https://www.acmicpc.net/problem/7576)
 - [프로그래머스 - PCCP 2번 석유시추](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
+- [프로그래머스 - DFS/BFS - 타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)
 
 ## 구현
 - [프로그래머스 - PCCP 1번 붕대감기](https://school.programmers.co.kr/learn/courses/30/lessons/250136)
